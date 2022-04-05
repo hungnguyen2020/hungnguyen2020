@@ -32,7 +32,5 @@ WebUI.click(findTestObject('Object Repository/GE_OR/Page_MMS/div_View Detail'))
 
 WebUI.click(findTestObject('Object Repository/GE_OR/Page_MMS/a_Leave request'))
 
-WebUI.click(findTestObject('Object Repository/GE_OR/Page_MMS/button_Save'))
-
 WebUI.closeBrowser()
 
